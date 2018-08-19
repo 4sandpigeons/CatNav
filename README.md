@@ -1,3 +1,7 @@
 # CatNav
 
-#This repository is dedicated to the CatNav line of products never to be offered by the imaginary PidgEon group. Inc. They are valiant efforts toward graduating from code noobdom.
+#CatNav changed my life. It can change yours too.
+
+#It borrows the API from the website random.cats, and then summons a floofball of majestic and wonderful floofosity and glory into your very own LocalHost:5000/
+
+#CatNav. The floofture is now.
